@@ -1,2 +1,2 @@
 # Laravel-Hospital-project
-Complete laravdel hospital project
+Complete laravel hospital project
